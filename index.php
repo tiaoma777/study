@@ -1,2 +1,2 @@
 <?php
-	echo phpinfo();
+	echo "吴泽群";
